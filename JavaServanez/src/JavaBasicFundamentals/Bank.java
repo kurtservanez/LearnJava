@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Bank {
 	Scanner scan = new Scanner(System.in);
 
-	int balance;
+	double balance;
 	int pin;
 
 	public void acc1() {
